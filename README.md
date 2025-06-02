@@ -3,7 +3,7 @@
 **MultiSight** is a vision-language model (VLM) designed to collaboratively understand and reason across multi-view remote sensing (RS) images. Unlike traditional single-image VLMs or general-purpose multi-image models, MultiSight explicitly models the relationships and complementary information across multiple views to support fine-grained and spatially grounded interpretation.
 
 <p align="center" width="100%">
-  <img src="imgs/MultiSight1.png" width="100%" alt="MultiSight Overview">
+  <img src="imgs/MultiSight.png" width="100%" alt="MultiSight Overview">
 </p>
 
 To enable this capability, MultiSight introduces two key modules:
