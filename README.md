@@ -25,7 +25,9 @@ MultiSight consistently outperforms baseline models in all tasks, especially und
 
 To support benchmarking, we provide three aligned datasets:
 
----
+# Release Notes
+* [2025/12/24]  📢 Dataset Release: MultiSight Datasets on Hugging Face
+We have released the MultiSight Datasets on Hugging Face: [https://huggingface.co/datasets/GuoMN/AerialSense](https://huggingface.co/datasets/GuoMN/MultiSight).
 
 ## 📦 MultiSight Datasets
 
@@ -76,6 +78,6 @@ To support benchmarking, we provide three aligned datasets:
 ## 📁 Dataset Access
 
 > 📥 **Download Link (Coming Soon)**  
-We will publicly release the datasets and detailed instructions in a future update. Stay tuned.
+[We will publicly release the datasets and detailed instructions in a future update. Stay tuned](https://huggingface.co/datasets/GuoMN/MultiSight).
 
 ---
