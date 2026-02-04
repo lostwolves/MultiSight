@@ -82,4 +82,16 @@ To support benchmarking, we provide three aligned datasets:
 > 📥 **Download Link**  
 (https://huggingface.co/datasets/GuoMN/MultiSight).
 
----
+## Citation
+
+If you find our work useful in your research, please cite our paper:
+
+```
+@article{guo2026multisight,
+  title={MultiSight: A Vision-Language Model for Collaborative Understanding of Multi-View Remote Sensing Images},
+  author={Guo, Mingning and Wu, Mengwei and Li, Shaoxian and Zhang, Jipeng and Li, Haifeng and Tao, Chao},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2026},
+  publisher={IEEE}
+}
+```
