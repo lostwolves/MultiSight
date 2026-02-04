@@ -26,6 +26,8 @@ MultiSight consistently outperforms baseline models in all tasks, especially und
 To support benchmarking, we provide three aligned datasets:
 
 # Release Notes
+* **[2026/2/4]  🚀 Test Code Released**
+  We have released tooling code for three benchmark datasets to support model evaluation and accuracy reporting. Researchers are welcome to run tests!
 * **[2025/12/24]  📢 Dataset Release: MultiSight Datasets on Hugging Face**
   We have released the MultiSight Datasets on Hugging Face: (https://huggingface.co/datasets/GuoMN/MultiSight).
 
